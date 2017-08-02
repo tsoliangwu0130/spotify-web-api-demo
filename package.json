@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/tsoliangwu0130/spotify-web-api-demo/issues"
   },
-  "homepage": "https://github.com/tsoliangwu0130/spotify-web-api-demo#readme"
+  "homepage": "https://github.com/tsoliangwu0130/spotify-web-api-demo#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0"
+  }
 }
