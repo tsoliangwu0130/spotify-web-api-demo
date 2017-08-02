@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tsoliangwu0130/spotify-web-api-demo#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "express": "^4.15.3",
     "querystring": "^0.2.0",
     "request": "^2.81.0"
